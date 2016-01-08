@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A76696781C3DE833008809D7 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A76696771C3DE833008809D7 /* MainMenuViewController.m */; };
 		A7D6E4331C1A47110003E78E /* TunaFishViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7D6E4321C1A47110003E78E /* TunaFishViewController.m */; };
 		A7F731471C19ED9D00EE2650 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F731461C19ED9D00EE2650 /* main.m */; };
 		A7F7314A1C19ED9D00EE2650 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F731491C19ED9D00EE2650 /* AppDelegate.m */; };
@@ -29,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A76696761C3DE833008809D7 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		A76696771C3DE833008809D7 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
 		A7D6E4311C1A47110003E78E /* TunaFishViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TunaFishViewController.h; sourceTree = "<group>"; };
 		A7D6E4321C1A47110003E78E /* TunaFishViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TunaFishViewController.m; sourceTree = "<group>"; };
 		A7F731411C19ED9D00EE2650 /* Implementing Calculations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Implementing Calculations.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -92,6 +95,8 @@
 				A7F7314F1C19ED9D00EE2650 /* ViewController.m */,
 				A7D6E4311C1A47110003E78E /* TunaFishViewController.h */,
 				A7D6E4321C1A47110003E78E /* TunaFishViewController.m */,
+				A76696761C3DE833008809D7 /* MainMenuViewController.h */,
+				A76696771C3DE833008809D7 /* MainMenuViewController.m */,
 				A7F731511C19ED9D00EE2650 /* Main.storyboard */,
 				A7F731541C19ED9D00EE2650 /* Images.xcassets */,
 				A7F731561C19ED9D00EE2650 /* LaunchScreen.xib */,
@@ -231,6 +236,7 @@
 				A7F7314A1C19ED9D00EE2650 /* AppDelegate.m in Sources */,
 				A7F7314D1C19ED9D00EE2650 /* Implementing_Calculations.xcdatamodeld in Sources */,
 				A7F731501C19ED9D00EE2650 /* ViewController.m in Sources */,
+				A76696781C3DE833008809D7 /* MainMenuViewController.m in Sources */,
 				A7F731471C19ED9D00EE2650 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
